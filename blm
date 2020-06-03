@@ -1,0 +1,6 @@
+git clone https://github.com/blm/username.github.io
+cd mariamk10.github.io
+echo "BLM" > BLM.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
